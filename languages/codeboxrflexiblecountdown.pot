@@ -1,0 +1,621 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CBX Flexible CountDown\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-06-18 04:08+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#. %s template
+#: includes/cbfc-functions.php:96
+#, php-format
+msgid "%s does not exist."
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:787
+#, php-format
+msgid ""
+"<a target=\"_blank\" href=\"%s\">CBX Flexible CountDown Pro Addon</a> has "
+"lots of pro and extended features, try it - Codeboxr Team"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:436
+msgid ""
+"<strong>Please note that this process can not be undone and it is "
+"recommended to keep full database backup before doing this.</strong>"
+msgstr ""
+
+#: templates/admin/dashboard.php:218
+msgid "Access our Premium Support"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:451
+msgid "Are you sure to reset all data, this process can not be undone?"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:362
+#: admin/class-codeboxrflexiblecountdown-admin.php:855
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:255
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:159
+msgid "Background Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:1121
+msgid "CBX Blocks"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:87
+msgid "CBX Countdown"
+msgstr ""
+
+#: widgets/classic_widgets/class-codeboxrflexiblecountdown-widget.php:56
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:23
+msgid "CBX Countdown Widget"
+msgstr ""
+
+#. Name of the plugin
+msgid "CBX Flexible CountDown"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:829
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:38
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:84
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:22
+msgid "CBX Flexible Countdown"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:86
+msgid "CBX Flexible Countdown (CBFC)"
+msgstr ""
+
+#: templates/admin/dashboard.php:18
+msgid "CBX Flexible Countdown - Helps & Updates"
+msgstr ""
+
+#: templates/admin/admin-settings-display.php:24
+msgid "CBX Flexible Countdown - Settings"
+msgstr ""
+
+#: templates/admin/dashboard.php:238
+msgid "CBX Flexible Countdown Plugin Information"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:734
+msgid "CBX Flexible CountDown plugin setting has been reset to defaults"
+msgstr ""
+
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:26
+msgid "CBX Widgets"
+msgstr ""
+
+#: templates/admin/dashboard.php:265
+msgid "Changelog"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:744
+#: admin/class-codeboxrflexiblecountdown-admin.php:757
+#, php-format
+msgid ""
+"Check <a href=\"%s\">Plugin Setting</a> | <a href=\"%s\" target=\"_blank\">"
+"Learn More</a>"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:1209
+#, php-format
+msgid ""
+"Check how to <a style=\"color:#6648fe !important; font-weight: bold;\" "
+"href=\"%s\"><strong>Update manually</strong></a> , download latest version "
+"from <a style=\"color:#6648fe !important; font-weight: bold;\" href=\"%s\">"
+"<strong>My Account</strong></a> section of Codeboxr.com"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:383
+#: admin/class-codeboxrflexiblecountdown-admin.php:858
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:283
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:183
+msgid "Circle Border Width"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:143
+#: includes/class-codeboxrflexiblecountdown-helper.php:19
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:129
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:137
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:145
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:153
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:161
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:169
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:177
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:185
+msgid "Circular Countdown"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:850
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:211
+msgid "Circular Countdown Settings"
+msgstr ""
+
+#. Author of the plugin
+msgid "Codeboxr"
+msgstr ""
+
+#: templates/admin/dashboard.php:306 templates/admin/sidebar.php:59
+msgid "Codeboxr News Updates"
+msgstr ""
+
+#: public/class-codeboxrflexiblecountdown-public.php:219
+msgid "Codeboxr Widgets"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:369
+#: admin/class-codeboxrflexiblecountdown-admin.php:856
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:264
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:167
+msgid "Count Number And Text Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:296
+#: admin/class-codeboxrflexiblecountdown-admin.php:844
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:170
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:92
+msgid "Count Number Background Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:282
+#: admin/class-codeboxrflexiblecountdown-admin.php:842
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:152
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:76
+msgid "Count Number Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:289
+#: admin/class-codeboxrflexiblecountdown-admin.php:843
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:161
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:84
+msgid "Count Number Color (On Responsive)"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:401
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:303
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:194
+msgid "Countdown Font Size"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:408
+#: admin/class-codeboxrflexiblecountdown-admin.php:863
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:312
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:202
+msgid "Countdown Number Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:230
+#: admin/class-codeboxrflexiblecountdown-admin.php:834
+#: templates/classic_widgets/codeboxrflexiblecountdown-admin.php:31
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:91
+msgid "Countdown Style"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:416
+#: admin/class-codeboxrflexiblecountdown-admin.php:864
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:321
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:210
+msgid "Countdown Text Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:240
+msgid "Date format: MM/DD/YYYY"
+msgstr ""
+
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:43
+msgid "Date format: mm/dd/yyyy"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:563
+#: public/class-codeboxrflexiblecountdown-public.php:167
+msgid "day"
+msgstr ""
+
+#: templates/circular.php:60 templates/light.php:68
+msgid "Days"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:564
+#: public/class-codeboxrflexiblecountdown-public.php:168
+msgid "days"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:355
+#: admin/class-codeboxrflexiblecountdown-admin.php:854
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:246
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:151
+msgid "Days Border Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:135
+#: admin/class-codeboxrflexiblecountdown-admin.php:833
+msgid "Default Settings"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:434
+msgid "Delete Global Config data created by this plugin on uninstall."
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:435
+msgid ""
+"Details <a data-target=\"cbfc_resetinfo\" class=\"cbfc_jump\" href=\"#\">"
+"option values</a>"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:685
+msgid "Documentation"
+msgstr ""
+
+#: templates/admin/dashboard.php:124
+msgid "Event Organiser"
+msgstr ""
+
+#: templates/admin/dashboard.php:138
+msgid "Events Made Easy"
+msgstr ""
+
+#: templates/admin/dashboard.php:96
+msgid "Events Manager"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:176
+msgid "Following option values created by this plugin(including addon)"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:862
+msgid "Font Size(Numeric only)"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:683
+msgid "Free Support"
+msgstr ""
+
+#: templates/admin/dashboard.php:34
+msgid "Get Free & Pro Addons"
+msgstr ""
+
+#: templates/classic_widgets/codeboxrflexiblecountdown-admin.php:86
+msgid "Global Setting"
+msgstr ""
+
+#: templates/admin/dashboard.php:22
+msgid "Go to Settings"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:565
+#: public/class-codeboxrflexiblecountdown-public.php:169
+msgid "h"
+msgstr ""
+
+#: templates/admin/dashboard.php:206 templates/admin/sidebar.php:10
+msgid "Help & Supports"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:265
+#: admin/class-codeboxrflexiblecountdown-admin.php:838
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:130
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:63
+msgid "Hide Second"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:266
+msgid "Hide Seconds Countdown"
+msgstr ""
+
+#: templates/circular.php:73 templates/light.php:81
+msgid "Hours"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:348
+#: admin/class-codeboxrflexiblecountdown-admin.php:853
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:237
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:143
+msgid "Hours Border Color"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://codeboxr.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://codeboxr.com/product/cbx-flexible-event-countdown-for-wordpress"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:147
+#: includes/class-codeboxrflexiblecountdown-helper.php:20
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:196
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:204
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:212
+msgid "KK Countdown"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:861
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:296
+msgid "KK Countdown Settings"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:238
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:102
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:40
+msgid "Launch Date"
+msgstr ""
+
+#: templates/classic_widgets/codeboxrflexiblecountdown-admin.php:42
+msgid "Launch Date(Date format- mm/dd/yy)"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:245
+#: templates/classic_widgets/codeboxrflexiblecountdown-admin.php:50
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:113
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:49
+msgid "Launch Hour"
+msgstr ""
+
+#: templates/classic_widgets/codeboxrflexiblecountdown-admin.php:57
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:56
+msgid "Launch Minute"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:255
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:121
+msgid "Launch Minutes"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:139
+#: includes/class-codeboxrflexiblecountdown-helper.php:18
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:78
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:86
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:94
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:102
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:110
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:118
+msgid "Light Countdown"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:841
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:144
+msgid "Light Countdown Settings"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:566
+#: public/class-codeboxrflexiblecountdown-public.php:170
+msgid "m"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:246
+msgid "Max value is 23"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:256
+msgid "Max value is 59"
+msgstr ""
+
+#: templates/circular.php:86 templates/light.php:94
+msgid "Minutes"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:341
+#: admin/class-codeboxrflexiblecountdown-admin.php:852
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:228
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:135
+msgid "Minutes Border Color"
+msgstr ""
+
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:42
+msgid "mm/dd/yyyy"
+msgstr ""
+
+#. Description of the plugin
+msgid "Multi style event count down plugin for wordpress"
+msgstr ""
+
+#: templates/admin/dashboard.php:110
+msgid "My Calendar"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:441
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:133
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:67
+msgid "No"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:433
+msgid "On Uninstall delete plugin data"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:596
+msgid "Oops, unable to copy"
+msgstr ""
+
+#: templates/admin/dashboard.php:160 templates/admin/sidebar.php:23
+msgid "Other WordPress Plugins"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:593
+msgid "Please Select"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:688
+msgid "Pro Support"
+msgstr ""
+
+#: templates/admin/dashboard.php:229
+msgid "Quick Support (Email)"
+msgstr ""
+
+#: templates/admin/dashboard.php:256
+msgid "Rate Our Plugin"
+msgstr ""
+
+#: templates/admin/dashboard.php:248
+msgid "Read the CBX Flexible Countdown User Guide"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:447
+msgid "Reset all data"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:448
+#, php-format
+msgid ""
+"Reset option values created by this plugin. \n"
+"<a class=\"button button-primary\" onclick=\"return confirm('%s')\" "
+"href=\"%s\">Reset Data</a>"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:684
+msgid "Reviews"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:567
+#: public/class-codeboxrflexiblecountdown-public.php:171
+msgid "s"
+msgstr ""
+
+#: includes/class-codeboxrflexiblecountdown-setting.php:843
+#: templates/admin/admin-settings-display.php:30
+msgid "Save Settings"
+msgstr ""
+
+#: templates/circular.php:99 templates/light.php:107
+msgid "Seconds"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:334
+#: admin/class-codeboxrflexiblecountdown-admin.php:851
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:219
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:127
+msgid "Seconds Border Color"
+msgstr ""
+
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:94
+msgid "Select countdown style"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:837
+msgid "Select Date & Time"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:659
+msgid "Settings"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:272
+#: admin/class-codeboxrflexiblecountdown-admin.php:324
+#: admin/class-codeboxrflexiblecountdown-admin.php:390
+#: admin/class-codeboxrflexiblecountdown-admin.php:423
+msgid "Shortcode & Demo"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:273
+msgid ""
+"Shortcode and demo based on default setting, please save once to check "
+"change."
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:391
+msgid ""
+"Shortcode and demo for circular countdown, please save once to check change."
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:325
+#: admin/class-codeboxrflexiblecountdown-admin.php:424
+msgid ""
+"Shortcode and demo for light countdown, please save once to check change."
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:595
+msgid "Shortcode copied to clipboard"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:173
+msgid "Show/hide details"
+msgstr ""
+
+#: templates/admin/dashboard.php:152
+msgid "Sportspress"
+msgstr ""
+
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:30
+msgid "Style"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:317
+#: admin/class-codeboxrflexiblecountdown-admin.php:847
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:197
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:116
+msgid "Text Background Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:303
+#: admin/class-codeboxrflexiblecountdown-admin.php:845
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:179
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:100
+msgid "Text Color"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:310
+#: admin/class-codeboxrflexiblecountdown-admin.php:376
+#: admin/class-codeboxrflexiblecountdown-admin.php:846
+#: admin/class-codeboxrflexiblecountdown-admin.php:857
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:188
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:273
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:108
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:175
+msgid "Text Color (On Responsive)"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:743
+#, php-format
+msgid ""
+"Thanks for installing/deactivating <strong>CBX Flexible CountDown</strong> "
+"V%s - Codeboxr Team"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:756
+#, php-format
+msgid ""
+"Thanks for upgrading <strong>CBX Flexible CountDown</strong> V%s , enjoy the "
+"new features and bug fixes - Codeboxr Team"
+msgstr ""
+
+#: templates/admin/dashboard.php:82
+msgid "The Events Calendar"
+msgstr ""
+
+#: templates/admin/dashboard.php:66
+msgid "Third Party plugin Integration"
+msgstr ""
+
+#: templates/classic_widgets/codeboxrflexiblecountdown-admin.php:24
+msgid "Title:"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:151
+msgid "Tools"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:691
+msgid "Try Pro Addon"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:594
+msgid "Window Title"
+msgstr ""
+
+#: admin/class-codeboxrflexiblecountdown-admin.php:440
+#: widgets/elementor_widgets/class-codeboxrflexiblecountdown-elemwidget.php:132
+#: widgets/vc_element/class-codeboxrflexiblecountdown-wpbwidget.php:66
+msgid "Yes"
+msgstr ""

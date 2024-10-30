@@ -1,0 +1,110 @@
+.cbfc-light-countdown {
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 0px;
+    margin: 20px 0;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    .cbfc-number-box {
+        //float: left;
+        //display: inline-block;
+        //width: 23%;
+        -ms-flex: 0 0 23%;
+        flex: 0 0 23%;
+        max-width: 23%;
+        margin: 0 1%;
+        list-style-type: none;
+    }
+    .cbfc-cd-main-container {
+        .cbfc-countdown-text {
+            display: none;
+            text-align: center;
+            margin: 20px 0;
+            font-size: 25px;
+            line-height: 25px;
+            font-weight: 100;
+        }
+    }
+    .cbfc-cd-background {
+        border: none !important;
+        background: none repeat scroll 0 0 #ffffff;
+        box-shadow: 0 5px 25px 0 rgba(0, 0, 0, 0.08);
+        border-radius: 8px;
+        .digit {
+            width: 50%;
+            display: inline-block;
+            text-align: center;
+        }
+    }
+    .cbfc-cd-number {
+        position: relative;
+        height: 100px;
+        color: rgb(91,91,91);
+        .digit {
+            position: absolute;
+            font-size: 62px;
+            line-height: 100px;
+            color: #333;
+            font-weight: 700;
+            &:first-child {
+                left: 0;
+            }
+            &:last-child {
+                right: 0;
+            }
+        }
+    }
+    .cbfc-cd-number.cbfc-cd-number-dark {
+        color: rgb(230, 230, 230);
+    }
+    .cbfc-overlap {
+        background-color: #00c1c1;
+        width: 100%;
+        padding: 3px 0;
+        text-align: center;
+        color: #ffffff;
+        font-weight: 700;
+        -webkit-border-bottom-right-radius: 8px;
+        -webkit-border-bottom-left-radius: 8px;
+        -moz-border-radius-bottomright: 8px;
+        -moz-border-radius-bottomleft: 8px;
+        border-bottom-right-radius: 8px;
+        border-bottom-left-radius: 8px;
+    }
+}
+.cbfc-light-countdown-480 {
+    .cbfc-cd-background {
+        border: none !important;
+        background: transparent !important;
+        font-size: 12px;
+    }
+    .lz-overlap {
+        border: none !important;
+        background: transparent !important;
+        font-size: 12px;
+    }
+    .cbfc-cd-number {
+        height: 50px;
+        .digit {
+            font-size: 32px;
+            line-height: 50px;
+        }
+    }
+    .cbfc-overlap {
+        background: transparent;
+        color: #000;
+    }
+}
+@media (max-width: 480px ) {
+    .cbfc-light-countdown {
+        .cbfc-cd-number {
+            height: 66px;
+            .digit {
+                font-size: 32px;
+            }
+        }
+    }
+}
